@@ -1,3 +1,5 @@
+# Santiago Landaverde
+# 1856681
 import csv
 filename = input()
 with open(filename, 'r') as csvfile:
