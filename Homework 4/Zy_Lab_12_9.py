@@ -1,3 +1,6 @@
+#Santiago Landaverde
+#1856681
+
 parts = input().split()
 name = parts[0]
 while name != '-1':
