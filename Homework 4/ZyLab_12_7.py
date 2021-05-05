@@ -1,3 +1,6 @@
+#Santiago Landaverde
+#1856681
+
 def get_age():  # function to read age from inputs
     age = int(input())
     if age < 18 or age > 75:  # check age validity
